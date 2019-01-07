@@ -1,2 +1,2 @@
 # Python4me
-Python snips
+Python snips for my learning purpose.
